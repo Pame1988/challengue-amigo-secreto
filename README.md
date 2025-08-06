@@ -41,5 +41,5 @@ Este proyecto es educativo y forma parte del contenido del programa de formació
 Podés modificarlo para agregar más funcionalidades como validaciones, restricciones, reiniciar el sorteo, etc.
 
 🙋‍♀️ Autor
-Hecho por Pamela Rigo 💻
-Desarrollando paso a paso en el mundo de la tecnología 🌱
+- Hecho por Pamela Rigo 💻
+- Desarrollando paso a paso en el mundo de la tecnología 🌱
