@@ -34,11 +34,13 @@ git clone https://github.com/Pame1988/challenge-amigo-secreto.git
 
 2. Abrí el archivo `index.html` en tu navegador.
 
+   ---
 
 📌 Notas
 - Este proyecto es educativo y forma parte del contenido del programa de formación de Alura.
 
 - Podés modificarlo para agregar más funcionalidades como validaciones, restricciones, reiniciar el sorteo, etc.
+---
 
 🙋‍♀️ Autor
 - Hecho por Pamela Rigo 💻
