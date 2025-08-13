@@ -36,12 +36,12 @@ git clone https://github.com/Pame1988/challenge-amigo-secreto.git
 
    ---
 
-📌 Notas
+## 📌 Notas
 - Este proyecto es educativo y forma parte del contenido del programa de formación de Alura.
 
 - Podés modificarlo para agregar más funcionalidades como validaciones, restricciones, reiniciar el sorteo, etc.
 ---
 
-🙋‍♀️ Autor
+## 🙋‍♀️ Autor
 - Hecho por Pamela Rigo 💻
 - Desarrollando paso a paso en el mundo de la tecnología 🌱
