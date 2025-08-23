@@ -1,11 +1,11 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
+    --color-primary: --color-white;
+    --color-secondary: rgb(81, 180, 81);
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
     --color-text: #444444;
-    --color-white: #FFFFFF;
+    --color-white:#FFFFFF;
 }
 
 /* Estilos generales */
@@ -37,6 +37,15 @@ body {
     justify-content: center;
     align-items: center;
     padding: 40px 0 0;
+}
+
+.imagen-amigo-secreto{
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
 }
 
 /* Sección de entrada */
